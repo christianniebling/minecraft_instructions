@@ -44,9 +44,17 @@ Click on `.minecraft` and then `config`.
 Open up `forge.cfg` with notepad or any text editor.  
 Set `allowEmissiveItems` to `false`. (line 17)  
 
-Reason for this change can be found on the [mod page](https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod).
+### Download the mods 
 
-### Install the mods 
+Download the mod from the [mod page](https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod). You must add the downloaded jar to your minecraft mods folder.
+
+- windows-key + r
+- type `%appdata%`
+- hit enter
+
+Click on `.minecraft`, create `mods` folder if it does not exist already. 
+
+Add the downloaded mod .jar file to the mods folder.
 
 **Open up the minecraft launcher!**
 
