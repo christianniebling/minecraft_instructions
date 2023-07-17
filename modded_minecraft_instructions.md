@@ -47,8 +47,9 @@ Set `allowEmissiveItems` to `false`. (line 17)
 ### Download the mods 
 
 Download the mods:  
-- [mw](https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod).  
-- [Optifine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=f4e0).  
+- [mw](https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod)  
+- [Optifine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=f4e0)   
+
 You must add the downloaded jars to your minecraft mods folder.
 
 - windows-key + r
@@ -57,7 +58,7 @@ You must add the downloaded jars to your minecraft mods folder.
 
 Click on `.minecraft`, create `mods` folder if it does not exist already. 
 
-Add the downloaded mod .jar file to the mods folder.
+Add the downloaded .jars file to the mods folder.
 
 **Open up the minecraft launcher!**
 
