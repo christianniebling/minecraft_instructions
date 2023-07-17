@@ -46,7 +46,10 @@ Set `allowEmissiveItems` to `false`. (line 17)
 
 ### Download the mods 
 
-Download the mod from the [mod page](https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod). You must add the downloaded jar to your minecraft mods folder.
+Download the mods:  
+- [mw](https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod).  
+- [Optifine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=f4e0).  
+You must add the downloaded jars to your minecraft mods folder.
 
 - windows-key + r
 - type `%appdata%`
@@ -84,3 +87,13 @@ To run a specific version of java
 & 'C:\Program Files\Java\jre-1.8\bin\java.exe' -jar .\forge-1.12.2-14.23.5.2859-installer.jar
 ```
 
+## Troubleshooting
+
+If the game crashes, try removing all other mods from your minecraft mod folder. 
+
+## Links
+
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html 
+https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html 
+https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=f4e0 
+https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod 
